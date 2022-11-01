@@ -91,3 +91,7 @@ body {
 .demo__item_type_offset-shadow:hover {
     box-shadow: 10px 10px 10px #366C49;
 }
+
+.demo__item_type_linear-gradient:hover {
+    background-image: linear-gradient(to bottom, #02B341, #ffffff);
+}
